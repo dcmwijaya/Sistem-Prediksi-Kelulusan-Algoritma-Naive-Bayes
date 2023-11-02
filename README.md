@@ -26,8 +26,8 @@ https://onboardcloud.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/De
 
 ## Running
 1.Download this repository.<br>
-2.Extract the file and open it with Dev C++.
-3.Run the application program by pressing the F11 key.
+2.Extract the file and open it with Dev C++.<br>
+3.Run the application program by pressing the F11 key.<br>
 4.Please enjoy [Done].
 
 <br>
