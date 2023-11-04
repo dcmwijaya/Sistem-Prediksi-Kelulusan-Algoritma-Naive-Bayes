@@ -4,6 +4,7 @@
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&logo=c&logoColor=white)
 
 # Sistem-Prediksi-Kelulusan-Algoritma-Naive-Bayes
+<strong>Proyek Akhir Statistika Komputasi</strong><br>
 Sistem prediksi kelulusan dengan menggunakan metode algoritma Naive Bayes yang dikembangkan dengan menggunakan bahasa pemrograman C.
 
 <br>
@@ -25,10 +26,10 @@ https://onboardcloud.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/De
 <br>
 
 ## Menjalankan
-1.Unduh repositori ini.<br>
-2.Ekstrak file dan buka dengan Dev C++.<br>
-3.Jalankan program aplikasi dengan menekan tombol F11.<br>
-4.Selamat menikmati [Selesai].
+1. Unduh repositori ini.<br>
+2. Ekstrak file dan buka dengan Dev C++.<br>
+3. Jalankan program aplikasi dengan menekan tombol F11.<br>
+4. Selamat menikmati [Selesai].
 
 <br>
 
