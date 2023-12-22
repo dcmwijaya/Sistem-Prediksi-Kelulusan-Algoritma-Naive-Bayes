@@ -4,7 +4,7 @@
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&logo=c&logoColor=white)
 
 # Sistem-Prediksi-Kelulusan-Algoritma-Naive-Bayes
-<strong>Proyek Akhir Statistika Komputasi</strong><br>
+<strong>Tugas Akhir Statistika Komputasi</strong><br>
 Sistem prediksi kelulusan dengan menggunakan metode algoritma Naive Bayes yang dikembangkan dengan menggunakan bahasa pemrograman C.
 
 <br>
