@@ -9,7 +9,7 @@ Sistem prediksi kelulusan dengan menggunakan metode algoritma Naive Bayes yang d
 
 <br>
 
-## Fitur / Kerangka Kerja / Peralatan
+## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
 | Fitur | Prediksi |
