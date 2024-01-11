@@ -9,7 +9,7 @@ Graduation prediction system by applying the Naive Bayes algorithm method which 
 
 <br>
 
-## Features / Framework / Tools
+## Project Requirements
 | Part | Description |
 | --- | --- |
 | Features | Prediction |
