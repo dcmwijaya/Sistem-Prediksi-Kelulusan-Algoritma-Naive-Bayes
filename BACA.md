@@ -19,9 +19,14 @@ Sistem prediksi kelulusan dengan menggunakan metode algoritma Naive Bayes yang d
 <br>
 
 ## Unduh & Instal Dev C++
-```bash
+
+<table><tr><td width="840">
+  
+```
 https://onboardcloud.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/Dev-Cpp%205.11%20TDM-GCC%204.9.2%20Setup.exe
 ```
+
+</td></tr></table>
 
 <br>
 
@@ -56,6 +61,11 @@ https://onboardcloud.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/De
 <td><img src="https://github.com/devancakra/Sistem-Prediksi-Kelulusan-Algoritma-Naive-Bayes/assets/54527592/57f2df8e-c726-46d8-ad65-c8efa0543f56" alt="data-testing"></td>
 </tr>
 </table>
+
+<br>
+
+## Apresiasi
+Jika anda merasa karya ini bermanfaat, dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan cara mengeklik tombol ``` ⭐Bintang ```.
 
 <br>
 
