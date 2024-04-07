@@ -23,7 +23,7 @@ Sistem prediksi kelulusan dengan menggunakan metode algoritma Naive Bayes yang d
 <table><tr><td width="840">
   
 ```
-http://bit.ly/DEVC_Installer
+https://bit.ly/DEVC_Installer
 ```
 
 </td></tr></table>
