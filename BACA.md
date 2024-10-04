@@ -1,7 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Sistem-Prediksi-Kelulusan-Algoritma-Naive-Bayes)
-![C](https://img.shields.io/badge/programming%20-%2300599C.svg?&logo=c&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Sistem-Prediksi-Kelulusan-Algoritma-Naive-Bayes?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Project](https://img.shields.io/badge/Project-Desktop-light.svg?style=flat&logo=c&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Campus%20Assignment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Sistem-Prediksi-Kelulusan-Algoritma-Naive-Bayes
 <strong>Tugas Akhir Statistika Komputasi</strong><br>
@@ -45,8 +46,8 @@ https://bit.ly/DEVC_Installer
 <th width="420">Menu Utama</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Sistem-Prediksi-Kelulusan-Algoritma-Naive-Bayes/assets/54527592/fd931ea2-2187-4418-aa04-c68a45c1a0d9" alt="splash-screen"></td>
-<td><img src="https://github.com/devancakra/Sistem-Prediksi-Kelulusan-Algoritma-Naive-Bayes/assets/54527592/9db9421e-5e91-47d7-93ca-c138ea75632d" alt="main-menu"></td>
+<td><img src="Documentation/Splash Screen.jpg" alt="splash-screen"></td>
+<td><img src="Documentation/Main Menu.jpg" alt="main-menu"></td>
 </tr>
 </table>
 <table>
@@ -56,9 +57,9 @@ https://bit.ly/DEVC_Installer
 <th width="280">Pengujian Data</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Sistem-Prediksi-Kelulusan-Algoritma-Naive-Bayes/assets/54527592/1676bd54-ec91-4891-b8e7-2c3ae47ce478" alt="data-training"></td>
-<td><img src="https://github.com/devancakra/Sistem-Prediksi-Kelulusan-Algoritma-Naive-Bayes/assets/54527592/6fb22b00-cfcb-4238-ae8c-75da25d492ab" alt="data-probability"></td>
-<td><img src="https://github.com/devancakra/Sistem-Prediksi-Kelulusan-Algoritma-Naive-Bayes/assets/54527592/57f2df8e-c726-46d8-ad65-c8efa0543f56" alt="data-testing"></td>
+<td><img src="Documentation/Data Training.jpg" alt="data-training"></td>
+<td><img src="Documentation/Data Probability.jpg" alt="data-probability"></td>
+<td><img src="Documentation/Data Testing.jpg" alt="data-testing"></td>
 </tr>
 </table>
 
@@ -70,7 +71,7 @@ Jika karya ini bermanfaat bagi anda, maka dukunglah karya ini sebagai bentuk apr
 <br>
 
 ## LISENSI 
-LISENSI MIT - Hak Cipta © 2020 - Devan Cakra Mudra Wijaya
+LISENSI MIT - Hak Cipta © 2020 - Devan C. M. Wijaya
 
 Dengan ini diberikan izin tanpa biaya kepada siapa pun yang mendapatkan salinan perangkat lunak ini dan file dokumentasi terkait perangkat lunak untuk menggunakannya tanpa batasan, termasuk namun tidak terbatas pada hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, mempublikasikan, mendistribusikan, mensublisensikan, dan/atau menjual salinan Perangkat Lunak ini, dan mengizinkan orang yang menerima Perangkat Lunak ini untuk dilengkapi dengan persyaratan berikut:
 
